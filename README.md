@@ -6,3 +6,4 @@
     jasdfklj 
     
 2. Add function 2
+3. Add function 3 by Quang
