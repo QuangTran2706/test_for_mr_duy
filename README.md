@@ -7,4 +7,4 @@
     
 2. Add function 2
 3. Add function 3 by Quang
-3. Add function 3 by Duy
+4. Add function 3 by Duy
